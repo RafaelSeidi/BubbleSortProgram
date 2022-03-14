@@ -1,0 +1,20 @@
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\bin\Debug\AtividadeAvaliativaBubbleSort.exe.config
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\bin\Debug\AtividadeAvaliativaBubbleSort.exe
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\bin\Debug\AtividadeAvaliativaBubbleSort.pdb
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.Form1.resources
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.Properties.Resources.resources
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.exe
+C:\Users\User\Desktop\Masterclass\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.pdb
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\bin\Debug\AtividadeAvaliativaBubbleSort.exe.config
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\bin\Debug\AtividadeAvaliativaBubbleSort.exe
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\bin\Debug\AtividadeAvaliativaBubbleSort.pdb
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.Form1.resources
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.Properties.Resources.resources
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.exe
+C:\Users\User\Desktop\ETEC 2\DS\AtividadeAvaliativaBubbleSort\obj\Debug\AtividadeAvaliativaBubbleSort.pdb
